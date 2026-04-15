@@ -1,5 +1,3 @@
-# portfolio_rahima
-my_site
 #  Parcours — Personal Portfolio of Rahima Moussoulouhou Eddine
 
 > A personal portfolio website showcasing my academic background, technical skills, projects, and expertise in computer engineering and cybersecurity.
